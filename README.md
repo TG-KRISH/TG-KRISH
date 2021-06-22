@@ -5,7 +5,7 @@ I am Gokul i really like to code in python I have many projects like
 
 [This game hack](https://github.com/TG-KRISH/Free-fire-diamonds)
 
-[Chess engine](https://github.com/TG-KRISH/Chess-Engine)
+[And this chess engine](https://github.com/TG-KRISH/Chess-Engine)
 
 Soon i will start to code a big projects...
 
