@@ -1,13 +1,16 @@
 ### Hello :D
 I am Gokul i really like to code in python I have many projects like 
 
-[Main project](PYTH0N-B0T/Lichess-B0T)
+- [Oganization](https://github.com/PYTH0N-B0T)
 
-[This game](https://github.com/TG-KRISH/Snake-game)
+- [Main project](PYTH0N-B0T/Lichess-B0T)
 
-[This game hack](https://github.com/TG-KRISH/Free-fire-diamonds)
+- [This game](https://github.com/TG-KRISH/Snake-game)
 
-[And this chess engine](https://github.com/TG-KRISH/Chess-Engine)
+- [This game hack](https://github.com/TG-KRISH/Free-fire-diamonds)
+
+- [And this chess engine](https://github.com/TG-KRISH/Chess-Engine)
+
 
 
 Soon i will start to code a big projects...
