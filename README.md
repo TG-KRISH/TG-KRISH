@@ -1,7 +1,7 @@
 # Hello :D
 I am Gokul i really like to code in python, i am also a lichess player [Enticingseal](https://lichess.org/@/Enticingseal)
 ## Projects
-- [Oganization](https://github.com/PYTH0N-B0T)
+- [Organization](https://github.com/PYTH0N-B0T)
  
 - [Main project](PYTH0N-B0T/Lichess-B0T)
 
