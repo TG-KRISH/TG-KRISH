@@ -14,8 +14,6 @@ I am Gokul i really like to code in python, i am also a lichess player **[Entici
 
 Soon i will start to code a big projects...
 
-I am now making a website soon i will finish it
-
 thanks for seeing my profile 
 
 bye!!
