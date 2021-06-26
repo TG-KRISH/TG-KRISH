@@ -3,7 +3,7 @@
 ## *Projects*
 - **[Organization](https://github.com/PYTH0N-B0T)**
  
-- **[Main project](PYTH0N-B0T/Lichess-B0T)**
+- **[Main project](https://github.com/PYTH0N-B0T/Lichess-B0T)**
 
 - **[This game](https://github.com/TG-KRISH/Snake-game)**
 
