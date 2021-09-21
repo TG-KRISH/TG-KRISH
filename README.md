@@ -3,7 +3,7 @@
 ## *Projects*
 - **[Organization](https://github.com/PYTH0N-B0T)**
  
-- **[Main project](https://github.com/PYTH0N-B0T/)**
+- **[Lichess.ID](https://lichess.org/Enticingseal)**
 
 - **[This game](https://github.com/TG-KRISH/Snake-game)**
 
