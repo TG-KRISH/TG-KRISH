@@ -3,8 +3,6 @@
 ## *Projects*
 - **[Organization](https://github.com/PYTH0N-B0T)**
  
-- **[Lichess](https://lichess.org/Enticingseal)**
-
 - **[This game](https://github.com/TG-KRISH/Snake-game)**
 
 - **[This game hack](https://github.com/TG-KRISH/Free-fire-diamonds)**
