@@ -9,7 +9,7 @@
 
 - **[This game hack](https://github.com/TG-KRISH/Free-fire-diamonds)**
 
-- **[And this chess engine](https://github.com/TG-KRISH/Chess-Engine)**
+- **[chess engine](https://github.com/TG-KRISH/Chess-Engine)**
 
 - **[Discord Bot](https://github.com/TG-KRISH/Discord.py)**
   
